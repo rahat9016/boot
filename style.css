@@ -1,0 +1,19 @@
+.slider-section{
+    background-color:#fceae8;
+    padding: 20px 0;
+}
+.p-w-1{
+    background: #FEA400;
+}
+.p-b-1{
+    background: #D970D5;
+}
+.p-s-1{
+    background: #0000FE;
+}
+.css-shadow{
+    box-shadow: 11px 8px 14px -9px #333;
+}
+.btn-css{
+    background: linear-gradient(#FE5497,#FE1872);
+}
